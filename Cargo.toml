@@ -126,6 +126,7 @@ optional = true
 
 [dependencies.ffmpeg-sys]
 path = "sys"
+version = "*"
 default-features = false
 
 [dependencies.log]
